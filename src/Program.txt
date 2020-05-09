@@ -1,0 +1,8 @@
+int main()
+begi
+int a,b;
+if(a< b)
+begin
+print(a)
+end
+end
