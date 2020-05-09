@@ -1,5 +1,5 @@
 int main()
-begi
+begin
 int a,b;
 if(a< b)
 begin
